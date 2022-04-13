@@ -1,0 +1,43 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "iphone 12",
+      "picture": "https://somos.lojaiplace.com.br/wp-content/uploads/2021/04/apple_iphone-12-spring21_purple_04202021.jpg",
+      "quantity": 2,
+      "price": 299.50
+    },
+
+    {
+      "id": 2,
+      "name": "PlayStation 5",
+      "picture": "https://a-static.mlcdn.com.br/618x463/playstation-5-2020-nova-geracao-825gb-1-controle-branco-sony/magazineluiza/231261100/3b68c75786063c5c1cc5461f2dbfb98e.jpg",
+      "quantity": 9,
+      "price": 4499.99
+    },
+
+    {
+      "id": 3,
+      "name": "Xbox Series S",
+      "picture": "https://a-static.mlcdn.com.br/618x463/xbox-series-s-2020-nova-geracao-512gb-ssd-1-controle-branco-microsoft-lancamento/magazineluiza/043083000/32fe1e8fc7e51793a5ec7f89abd77a9d.jpg",
+      "quantity": 4,
+      "price": 2499.90
+    },
+
+    {
+      "id": 4,
+      "name": "Nintendo Switch",
+      "picture": "https://a-static.mlcdn.com.br/618x463/nintendo-switch-32gb-hac-001-01-1-controle-joy-con-vermelho-e-azul/magazineluiza/043082000/d38296e874a7d5f3e06ff0d8704bb123.jpg",
+      "quantity": 3,
+      "price": 2509.00
+    },
+
+    {
+      "id": 5,
+      "name": "Xbox Series X",
+      "picture": "https://a-static.mlcdn.com.br/618x463/xbox-series-x-2020-nova-geracao-1tb-ssd-1-controle-preto-controle-sem-fio-preto-battlefield-2042/magazineluiza/229602100/c17c01587451094a68f99d635df11cc4.jpg",
+      "quantity": 5,
+      "price": 5099.00
+    }
+  ]
+}
